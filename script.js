@@ -40,7 +40,7 @@ function showMyDB() {
         console.log(personalMovieDB);
     }
 }
-showMyDB();
+// showMyDB();
 
 
 let favoriteGenre;
